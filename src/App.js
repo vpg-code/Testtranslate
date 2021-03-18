@@ -23,7 +23,7 @@ export default App() {
         cacheProvider={CacheProvider}
         from='en'
         to='es'
-        googleApiKey='AIzaSyDb2ZLcdT5NCF9IdVeOKLhbYJk8PNv3udE'
+        googleApiKey=''
       >
       
       <h1><Translate>Welcome!</Translate></h1>
